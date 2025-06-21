@@ -1,2 +1,2 @@
 # Data-Science
-Data science projects I have worked on.
+Single Jupyter file data science projects.
